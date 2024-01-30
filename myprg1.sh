@@ -4,3 +4,4 @@ select opt in deva rushi kakarla
    echo $opt
   done
 #end of the script
+#end of the code
