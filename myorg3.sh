@@ -7,3 +7,4 @@ while true
    ((count++))
  done
 #end
+echo "this is new line"
